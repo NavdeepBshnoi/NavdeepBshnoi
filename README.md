@@ -1,13 +1,13 @@
 # 💫 Hi 👋, I'm Navdeep Bishnoi
 **A passionate Biomedical Engineer || Python, Solidworks, Ansys || Cmpleted Google & Johns Hopkins courses
 
-Email Me 👉 ✉️ **navdeep4799.th@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **navdeep.bishnoi@outlook.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Prosthetic Hand Project on SolidWorks
 - 🌱 **I’m currently learning:** Image Processing using Python 
 - 👯 **I’m looking to collaborate on:** Prosthetic design project 
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** navdeep4799.th@gmail.com
+- 📫 **How to reach me:** navdeep.bishnoi@outlook.com
 - 😄 **Pronouns:** he/him
 - ⚡ **Fact:** I Love to Work in Design and R&D Field 
 
